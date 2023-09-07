@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+    background-image: url(heart.gif);
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+p{
+    font-size: 70px;
+    text-shadow: 5px 5px 5px red, -5px -5px 5px #00ff40;
+    color: #f0ffff;
+    font-weight: 250;
+}
+.section{
+    display: flex;
+    justify-content: left;
+    padding: 100px;
+    width: 60%;
+}
